@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/omar/problem solving/leetcode/linked-lists/MyLinkedList.h
+
+D:/omar/problem solving/leetcode/linked-lists/main.cpp
+iostream
+-
+MyLinkedList.h
+D:/omar/problem solving/leetcode/linked-lists/MyLinkedList.h
+
